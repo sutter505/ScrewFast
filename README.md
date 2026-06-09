@@ -13,6 +13,7 @@ RotersOs adalah komunitas open-source yang dirancang untuk pengembangan dan modi
 </p>
 Channel Resmi: Pantau update di 
 [Channel Telegram RotersOs]
+
 <p align="left">
     <a href="https://t.me/RotersOs" target="_blank">
       <img src="https://vyclk3sx0z.ufs.sh/f/hv6ttNERWpXuEoXgHPqIX9Ah5WFP01dfQ83jHCsek7VpiTDB" alt="ScrewFast Site"/></a>
