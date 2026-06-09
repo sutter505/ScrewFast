@@ -14,6 +14,7 @@ RotersOs adalah komunitas open-source yang dirancang untuk pengembangan dan modi
 </p>
 
 Channel Resmi: Pantau update di
+
 [Channel Telegram RotersOs]
 
 <p align="left">
