@@ -6,6 +6,7 @@ RotersOs adalah komunitas open-source yang dirancang untuk pengembangan dan modi
 ​Yuk gabung dan pantau perkembangan oprekan kami di sini:
 
 ​Grup Diskusi: Masuk ke Grup [Telegram RotersOs] (https://t.me/RotersOs)
+
 ​Channel Resmi: Pantau update di [Channel Telegram RotersOs] (https://t.me/My_Roters)
 
 <p align="left">
