@@ -10,7 +10,7 @@ RotersOs adalah komunitas open-source yang dirancang untuk pengembangan dan modi
 ​Channel Resmi: Pantau update di [Channel Telegram RotersOs] (https://t.me/My_Roters)
 
 <p align="left">
-    <a href="https://screwfast.uk" target="_blank">
+    <a href="https://t.me/My_Roters" target="_blank">
       <img src="https://vyclk3sx0z.ufs.sh/f/hv6ttNERWpXuEoXgHPqIX9Ah5WFP01dfQ83jHCsek7VpiTDB" alt="ScrewFast Site"/></a>
 </p>
 
