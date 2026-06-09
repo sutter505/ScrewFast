@@ -5,13 +5,13 @@
 RotersOs adalah komunitas open-source yang dirancang untuk pengembangan dan modifikasi Android secara cepat dan efisien, memadukan performa tinggi dengan tweaking maksimal. Baik untuk memamerkan Custom ROM, merilis Custom Kernel, atau berbagi modul modifikasi sistem, RotersOs menyediakan semua yang kamu butuhkan. Dedikasi penuh untuk komunitas oprek POCO X3 NFC, platform ini menawarkan wadah yang fungsional dan estetis untuk segala kebutuhan optimasi HP kamu.
 ​Yuk gabung dan pantau perkembangan oprekan kami di sini:
 
-​Grup Diskusi: Masuk ke Grup 
+​Grup Diskusi: Masuk ke Grup
 [Telegram RotersOs]
 <p align="left">
     <a href="https://t.me/My_Roters" target="_blank">
       <img src="https://vyclk3sx0z.ufs.sh/f/hv6ttNERWpXuEoXgHPqIX9Ah5WFP01dfQ83jHCsek7VpiTDB" alt="ScrewFast Site"/></a>
 </p>
-Channel Resmi: Pantau update di 
+Channel Resmi: Pantau update di
 [Channel Telegram RotersOs]
 
 <p align="left">
